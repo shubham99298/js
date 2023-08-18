@@ -34,7 +34,7 @@ let arr=[
     {
         name:'rajesh',
         age:20
-    },
+    }, 
     {
         name:'yogender',
         age:45 
